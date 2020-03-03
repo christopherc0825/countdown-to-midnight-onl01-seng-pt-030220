@@ -6,4 +6,4 @@ def countdown(cd_number)
   end
   return "HAPPY NEW YEAR!"
 end
-countdown
+countdown(10)
